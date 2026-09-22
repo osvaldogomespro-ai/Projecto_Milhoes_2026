@@ -1,0 +1,8 @@
+{
+  "name": "Projecto Milhões 2026",
+  "description": "Painel estratégico e rastreador inteligente de campanhas de bônus, cashback e recompensas com assistente de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
